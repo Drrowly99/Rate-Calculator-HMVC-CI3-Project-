@@ -16,6 +16,8 @@ This project is an exchange rate calculator built on codeigniter,
 The files are arranged in such a way that to access each rate modules, you would have to access the API module first
 
 
+<img src="asset/shot1.png" width="128"/>
+
 
 ***************
 Acknowledgement
